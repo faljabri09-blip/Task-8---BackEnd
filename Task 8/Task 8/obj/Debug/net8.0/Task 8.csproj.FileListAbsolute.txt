@@ -1,0 +1,15 @@
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\bin\Debug\net8.0\Task 8.exe
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\bin\Debug\net8.0\Task 8.deps.json
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\bin\Debug\net8.0\Task 8.runtimeconfig.json
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\bin\Debug\net8.0\Task 8.dll
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\bin\Debug\net8.0\Task 8.pdb
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\obj\Debug\net8.0\Task 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\obj\Debug\net8.0\Task 8.AssemblyInfoInputs.cache
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\obj\Debug\net8.0\Task 8.AssemblyInfo.cs
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\obj\Debug\net8.0\Task 8.csproj.CoreCompileInputs.cache
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\obj\Debug\net8.0\Task 8.sourcelink.json
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\obj\Debug\net8.0\Task 8.dll
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\obj\Debug\net8.0\refint\Task 8.dll
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\obj\Debug\net8.0\Task 8.pdb
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\obj\Debug\net8.0\Task 8.genruntimeconfig.cache
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task 8\Task 8\obj\Debug\net8.0\ref\Task 8.dll
